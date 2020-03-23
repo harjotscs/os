@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout<<"Testing new hi log"
+	cout<<"Testing "
 }
